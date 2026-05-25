@@ -23,3 +23,6 @@ __pycache__/
 
 #Временные данные
 tmp_data.txt
+
+#Секреты file.env
+file.env
